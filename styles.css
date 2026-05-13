@@ -249,6 +249,13 @@ mark {
     background: #000;
 }
 
+/* go icon */
+.go-icon {
+    display: block;
+    height: clamp(4rem, 11vw, 7rem);
+    margin: 1.25rem auto 0;
+}
+
 /* magazine callouts */
 .slide--callout > p,
 .slide--callout > h1,
